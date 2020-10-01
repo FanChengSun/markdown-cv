@@ -2,7 +2,7 @@
 layout: cv
 title: Lennart Nacke's CV
 # Lennart Nacke
-Physicist, Mathematician, Cambridge professor. fancheng sun
+Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
